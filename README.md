@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # 🎓 Öğrenci – Kurs Takip Sistemi
 
 Bu proje, C# ve SQL Server kullanılarak geliştirilmiş basit bir konsol tabanlı öğrenci-kurs yönetim sistemidir.
@@ -37,3 +38,7 @@ Bu proje, C# ve SQL Server kullanılarak geliştirilmiş basit bir konsol tabanl
 
 Bu proje, ADO.NET ile veritabanı bağlantısı, CRUD işlemleri ve many-to-many ilişki yönetimini öğrenmek amacıyla geliştirilmiştir.
 
+=======
+# OgrenciKursTakipSistemi
+C# ve MS SQL Server kullanılarak geliştirilen basit bir öğrenci–kurs takip sistemi.
+>>>>>>> 3a51a8ec7110beb5449a227495586a6a7560bc85
